@@ -1,6 +1,6 @@
 # **AirBnB clone**
 
-+ The AirBnB clone project starts now until… the end of the first year. The goal of the project is to deploy on your server a simple copy of the AirBnB website.
++ The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 
 + Implement, only some of them to cover all fundamental concepts of the higher level programming track.
 
@@ -11,7 +11,7 @@
 +    A database or files that store data (data = objects)
 +    An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
 
-# **STEPS : **
+# **STEPS :**
 
 # **The console**
 
