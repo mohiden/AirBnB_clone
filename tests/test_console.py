@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Defines unittests for the console.py 
+Defines unittests for the console.py
 operations.
 
 Unittest classes:
